@@ -23,6 +23,5 @@
 
 Here is the demo of how it works.
 
-<video width="640" height="640" controls>
-  <source src="img/demo.mov" type="video/mp4">
-</video>
+https://github.com/marekhac/WeatherApp/assets/15977848/70dc055d-751b-491f-9991-4766a785d1c2
+
