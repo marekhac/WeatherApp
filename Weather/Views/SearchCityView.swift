@@ -25,6 +25,10 @@ struct SearchCityView: View {
                 }
                 
                 Spacer()
+                Text("Copyright © 2024 by MARXSOFT Marek Hać")
+                    .frame(maxWidth: .infinity, alignment: .center)
+                    .font(.system(size: 12))
+                    .padding(10)
             }
             .navigationBarTitle("Weather App")
             .padding(.horizontal, 20)
